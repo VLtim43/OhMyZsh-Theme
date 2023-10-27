@@ -1,6 +1,6 @@
 ## Oh My Zsh Stigmata Theme
 
-Custom theme I made for Oh My Zsh features
+Custom theme I made for Oh My Zsh 
 
 ### Indicator Meaning:
 
